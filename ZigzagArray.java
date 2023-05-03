@@ -1,3 +1,4 @@
+// Convert a given array into a zigzag pattern, where the elements are alternately increasing and decreasing.
 import java.util.Arrays;
 public class ZigzagArray {
     public static void main(String[] args) {
