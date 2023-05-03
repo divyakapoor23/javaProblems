@@ -1,3 +1,8 @@
+// Write a Java program that reads in an integer array of size N, and then calculates and outputs the sum of all the even elements in the array. The program should first prompt the user to enter the value of N, and then ask them to enter N integers separated by spaces.
+// Example:
+// Enter the value of N: 5
+// Enter the array of integers: 2 3 7 8 10
+// The sum of even elements in the array is: 20
 import java.util.Scanner;
 
 public class SumOfEvenElements {
